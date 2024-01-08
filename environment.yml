@@ -1,11 +1,18 @@
-# Cross-platform compatible: conda env export --from-history>environment.yml
-# Platform and package-specific: conda env export ENVNAME>environment.yml
-# Platform, package, and channel-specific: conda list --explicit>environment.txt
-name:
+name: conv-agg
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
-  - pip:
-    - 
+  - python=3.9.12
+  - ipykernel
+  - netcdf4
+  - numpy
+  - scipy
+  - bottleneck
+  - dask
+  - basemap
+  - proplot
+  - matplotlib
+  - xarray
+  - cartopy
+prefix: /jet/home/sferrett/Miniconda/envs/conv-agg
