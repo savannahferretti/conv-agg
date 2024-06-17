@@ -1,7 +1,7 @@
 #!/bin/csh
 
 # Author: Andrea Jenney (ajenney@uci.edu)
-# Description: The following script loops through timesteps in a big 3D file and saves each timestep as a new file.
+# Description: The following script loops through timesteps in a big 3D file and saves each timestep as a new file
 
 # How to save files
 set filestring = RCE_rcemip-small_99km_300K_nz_32_128_
