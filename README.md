@@ -14,7 +14,7 @@ Project Organization
 ```
 ├── LICENSE.md         <- License for code
 │         
-├── README.md          <- Top-level information on this project 
+├── README.md          <- Top-level information on this code base 
 │         
 ├── notebooks/         <- Jupyter notebooks for data analysis/visualization 
 │          
