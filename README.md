@@ -3,7 +3,7 @@ Vertical resolution impacts explicit simulation of deep convection
 
 by A. M. Jenney<sup>1</sup>, S. L. Ferretti<sup>1</sup>, & M. S. Pritchard<sup>1</sup>
 
-<sup>1</sup>Earth System Science, University of California, Irvine, Irvine, CA, USA
+<sup>1</sup>Department of Earth System Science, University of California, Irvine, Irvine, CA, USA
 
 **Status:** This [paper](https://doi.org/10.1029/2022MS003444) was published in the *Journal for Advances in Modeling Earth Systems*, DOI: 2022MS003444. [Supporting information](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2022MS003444&file=2022MS003444-sup-0001-Supporting+Information+SI-S01.pdf) is also available. *Note that code presented here was used to make the figures in the [pre-print](https://essopenarchive.org/doi/full/10.1002/essoar.10512579.1), and might not be updated to match the current publication.*
 
